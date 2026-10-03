@@ -1,0 +1,6 @@
+{
+  "name": "Privacy - Perfil Oficial",
+  "description": "Perfil oficial na Privacy com planos de assinatura, checkout PIX/Cartão e área VIP de conteúdo exclusivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
